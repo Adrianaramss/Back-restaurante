@@ -36,9 +36,6 @@ https://documenter.getpostman.com/view/24460801/2s93kz55AE
 
 # 🛰 Como executar o projeto 
 ```bash
-# Clone repositório
-git clone https://github.com/Adrianaramss/Back-restaurante.git
-
 # Instalando dependências
 npm install
 
