@@ -31,9 +31,10 @@ https://documenter.getpostman.com/view/24460801/2s93kz55AE
 # 🔗Deploy 
 - render
 [Restaurante](https://back-restaurante.onrender.com)
+- Repositório Front-end
+[Front-restaurante](https://github.com/Adrianaramss/front-restaurante)
 
-
-# Como executar o projeto 
+# 🛰 Como executar o projeto 
 ```bash
 # Clone repositório
 git clone https://github.com/Adrianaramss/Back-restaurante.git
