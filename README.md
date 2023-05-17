@@ -29,7 +29,7 @@ O Projeto Restaurante é um sistema web ou aplicativo que visa oferecer uma expe
 
 ## Deploy 
 - render
-[Restaurante](https://projeto-restaurante-zeta.vercel.app/)
+[Restaurante](https://back-restaurante.onrender.com)
 
 ## Como executar o projeto 
 Instale as dependências com
