@@ -4,8 +4,8 @@ Após o cadastro, os clientes podem explorar as opções disponíveis no sistema
 
 
 # 📊 Diagrama do Banco de dados
+![Copy of projeto integrador (labeddit)](https://github.com/Adrianaramss/Back-restaurante/assets/111310311/3204bfff-5f06-4509-aeba-26e88f0d1c6f)
 
-![Copy of projeto integrador (sistema)](https://github.com/Adrianaramss/Back-restaurante/assets/111310311/88ffc0bf-68fa-4802-bbde-8b823737b2d5)
 
 # 📝 Endpoints
 
