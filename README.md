@@ -1,7 +1,6 @@
 # Projeto Restaurante  Back-end
 
-O Projeto Restaurante é um sistema web ou aplicativo que visa oferecer uma experiência conveniente e eficiente para os clientes do restaurante. Com esse sistema, os clientes têm a capacidade de criar uma conta personalizada fornecendo informações como nome, endereço de e-mail e senha.
-
+O Projeto Restaurante é um sistema web ou aplicativo que visa oferecer uma experiência conveniente e eficiente para os clientes do restaurante. Com esse sistema, os clientes têm a capacidade de criar uma conta personalizada fornecendo informações como nome, endereço de e-mail e senha. Após o cadastro o cliente podera fazer sua reservas e gerenciar.
 
 ## Diagrama do Banco de dados
 
