@@ -8,7 +8,7 @@ Após o cadastro, os clientes podem explorar as opções disponíveis no sistema
 ![Copy of projeto integrador (sistema)](https://github.com/Adrianaramss/Back-restaurante/assets/111310311/88ffc0bf-68fa-4802-bbde-8b823737b2d5)
 
 # 📝 Endpoints
-- teste 
+
 - Get usuarios: Retorna todos os usuários cadastrados;
 - Post criar usuario: Cadastro de nova conta;
 - Login: Informe de Login e Senha para acesso a aplicação;
