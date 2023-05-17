@@ -7,7 +7,7 @@ O Projeto Restaurante é um sistema web ou aplicativo que visa oferecer uma expe
 ![Copy of projeto integrador (sistema)](https://github.com/Adrianaramss/Back-restaurante/assets/111310311/88ffc0bf-68fa-4802-bbde-8b823737b2d5)
 
 ## Endpoints
-
+- teste
 - Get usuarios
 - Post criar usuario
 - Login
